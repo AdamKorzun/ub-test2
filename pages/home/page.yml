@@ -22,4 +22,6 @@ slots:
           - id: '2'
             name: content
             bindings: {}
-            children: []
+            children:
+              - components/tabset/tabset.yml
+              - components/button.yml
