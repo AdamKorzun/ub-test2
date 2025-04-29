@@ -11,5 +11,6 @@ appSettings:
   actions: {}
   gridVersion: 2
   density: compact
+  hideRenderCachingSettings: false
 internalType: project
 id: EW2vH8hute
